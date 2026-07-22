@@ -22,7 +22,7 @@ const countdown = document.getElementById("timer");
 let timeLeft = 3;
 
 // GANTI LINK INI
-const redirectURL = "https://theresa-505231.happy-talking.org/yz/0kQXY3cY7KfNCq7w2B";
+const redirectURL = "https://amy-724569.happy-talking.org/b/unVDidRRzfo7DzdBJd0G_SsiGNb";
 
 const timer = setInterval(function(){
 
